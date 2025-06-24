@@ -2,11 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCircle } from "@fortawesome/free-solid-svg-icons";
 import { faGoogle, faInstagram, faTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons/faFacebook";
-import okIn from '../../css/okIn.png'
 import '../../css/circle.css'
-
-
-
 
 function Icons () {
    return (
