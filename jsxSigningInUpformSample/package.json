@@ -1,10 +1,12 @@
 {
+  "homepage": "https://Hagop420.github.io/jsx_program_chris-s-_practice_one.git",
   "name": "jsxsigninginupformsample",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "deploy": "gh-pages -d dist",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
