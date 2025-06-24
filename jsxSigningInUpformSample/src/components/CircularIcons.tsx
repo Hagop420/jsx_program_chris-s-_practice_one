@@ -4,9 +4,6 @@ import { faGoogle, faInstagram, faTwitter } from "@fortawesome/free-brands-svg-i
 import { faFacebook } from "@fortawesome/free-brands-svg-icons/faFacebook";
 import '../../css/circle.css'
 
-
-
-
 function Icons () {
    return (
       <>
