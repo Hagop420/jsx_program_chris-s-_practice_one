@@ -14,7 +14,7 @@ export function LightDarkMode() {
   // browser theme
   useEffect(() => {
     localStorage.setItem('theme', theme)
-    const localTheme = localStorage.getItem('theme') ?? 'night'
+    const localTheme = localStorage.getItem('theme') ?? 'lofi'
     document.querySelector('html')?.setAttribute('data-theme', localTheme)
   }, [theme])
   return (
